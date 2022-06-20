@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YadavRitesh
-- 👀 I’m interested in Software Dvelopment/App / web develpment..
+- 👀 I’m interested in Software Development/ App/ web develpment..
 - 🌱 I’m currently learning React and back-end development...
 - 💞️ I’m looking to collaborate on .Web Development projects..
-- 📫 How to reach me e-mail- nryriteshyadavu1@gmail.com.
+- 📫 How to reach me e-mail_ID- ryriteshyadavu1@gmail.com.
